@@ -9,7 +9,7 @@ from openpyxl import Workbook
 from openpyxl.styles import PatternFill
 
 EXPECTED_DOMAIN = "https://example.com"
-VIRUSTOTAL_API_KEY = "45e86953250e2b3c549a0fcd59bd1e6346168a1cb4d1f0e476b1968a0c8906fb"
+VIRUSTOTAL_API_KEY = "VirusTotalAPI"
 VIRUSTOTAL_URL = "https://www.virustotal.com/api/v3/urls"
 
 SUSPICIOUS_PATTERNS = [
